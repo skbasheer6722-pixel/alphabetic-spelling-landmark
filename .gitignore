@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+venv/
+dataset/
+models/*.keras
+models/labels.json
+evaluation/
